@@ -1,40 +1,36 @@
 # 🚀 Getting started with Strapi
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
+```$ Choose your installation type```
+ 
+ Quickstart (recommended)
 
-### `develop`
+  Custom (manual settings)
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
+```$ Choose your preferred language```
 
-```
-npm run develop
-# or
-yarn develop
-```
+  JavaScript
+  
+  TypeScript 
 
-### `start`
+```$ Choose your default database client```
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-start)
+  sqlite
+  
+  postgres
+  
+  mysql 
 
-```
-npm run start
-# or
-yarn start
-```
+```$ Database name:```
 
-### `build`
+```$ Host: (127.0.0.1)```
 
-Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
+```$ Port: (3306)```
 
-```
-npm run build
-# or
-yarn build
-```
+```$ Username: root```
 
-## ⚙️ Deployment
+```$ Password: **************```
 
-Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
+```$ Enable SSL connection: (y/N)```
 
 ## 📚 Learn more
 
